@@ -1,0 +1,232 @@
+    <movies>
+	<movie>
+        <title>After : Chapitre 1</title>
+        <originaltitle>After</originaltitle>
+        <ratings>
+            <rating name="themoviedb" max="10" default="true">
+                <value>7.155000</value>
+                <votes>7540</votes>
+            </rating>
+        </ratings>
+        <userrating>0</userrating>
+        <top250>0</top250>
+        
+        <plot>Depuis son plus jeune âge, Tessa était promise à un avenir tout tracé : une vie rangée, une brillante carrière, un mariage tranquille avec son fiancé de toujours. Jusqu’à sa rencontre avec Hardin à son arrivée à l’université. Grossier, provocateur, cruel, c’est le garçon le plus détestable qu’elle ait jamais croisé. Et pourtant, ce bad boy tatoué pourrait bien lui faire perdre tout contrôle…</plot>
+        <tagline>On n&apos;oublie jamais sa première fois</tagline>
+        <runtime>106</runtime>
+        <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original/qYDYA3jkSagHKjeKFmBPveBvGvn.jpg</thumb>
+        <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original/9qtAvGPgSjqbuBeBOOlBT9SNXDo.jpg</thumb>
+        <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original/6DHDJr3Yfr28IP8jcnT5ld2jejz.jpg</thumb>
+        <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original/9xb8Nt1MyzK8uUZJUqPvYLfhBoc.jpg</thumb>
+        <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original/racHRNsh69KBWTABHlyjgxqdErB.jpg</thumb>
+        <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original/vR2BjdMd6P74yBQSjKph8uz9jCi.jpg</thumb>
+        <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original/6SSyyfDBL1WkmDJI669zh1QNCLb.jpg</thumb>
+        <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original/ighh0XyGgHFnG1yBBe6ZIkwWDOl.jpg</thumb>
+        <thumb spoof="" cache="" aspect="poster" preview="">http://assets.fanart.tv/fanart/movies/537915/movieposter/after-5cbc04126e2cf.jpg</thumb>
+        <thumb spoof="" cache="" aspect="poster" preview="">http://assets.fanart.tv/fanart/movies/537915/movieposter/after-622660d04bb5d.jpg</thumb>
+        <mpaa>Rated U</mpaa>
+        <playcount>0</playcount>
+        <lastplayed></lastplayed>
+                <id>537915</id>
+        <uniqueid type="imdb">tt4126476</uniqueid>
+        <uniqueid type="tmdb" default="true">537915</uniqueid>
+        <genre>Romance</genre>
+        <genre>Drame</genre>
+        <country>United States of America</country>
+        <set>
+            <name>After - Saga</name>
+            <overview>After est un film dramatique américain romantique de 2019 réalisé par Jenny Gage, basé sur le nouveau roman de fiction pour adultes du même nom de 2014 d&apos;Anna Todd. Le film met en vedette Josephine Langford et le héros Fiennes Tiffin, et suit une adolescente inexpérimentée qui commence à fréquenter un mystérieux étudiant pendant ses premiers mois de collège. Une suite, After We Collided, est sortie aux États-Unis le 23 octobre 2020.</overview>
+        </set>
+        <tag>based on novel or book</tag>
+        <tag>love</tag>
+        <tag>teenage crush</tag>
+        <credits>Susan McMartin</credits>
+        <credits>Jenny Gage</credits>
+        <credits>Tom Betterton</credits>
+        <credits>Tamara Chestna</credits>
+        <director>Jenny Gage</director>
+        <premiered>2019-04-11</premiered>
+        <year>2019</year>
+                <code></code>
+                <studio>CalMaple Films</studio>
+        <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=5mYV2kL-Wn0</trailer>
+        <fileinfo>
+            <streamdetails>
+                <video>
+                    <codec>h264</codec>
+                    <aspect>2.388060</aspect>
+                    <width>1920</width>
+                    <height>808</height>
+                    <durationinseconds>6372</durationinseconds>
+                    <stereomode></stereomode>
+                </video>
+                <audio>
+                    <codec>ac3</codec>
+                    <language>fre</language>
+                    <channels>6</channels>
+                </audio>
+                <audio>
+                    <codec>ac3</codec>
+                    <language>eng</language>
+                    <channels>6</channels>
+                </audio>
+                <subtitle>
+                    <language>fre</language>
+                </subtitle>
+                <subtitle>
+                    <language>fre</language>
+                </subtitle>
+            </streamdetails>
+        </fileinfo>
+        <actor>
+            <name>Josephine Langford</name>
+            <role>Tessa Young</role>
+            <order>0</order>
+            <thumb>https://image.tmdb.org/t/p/original/8Fj1UIFRJA0B5Zo22KwML5d3Mr3.jpg</thumb>
+        </actor>
+        <actor>
+            <name>Hero Fiennes Tiffin</name>
+            <role>Hardin Scott</role>
+            <order>1</order>
+            <thumb>https://image.tmdb.org/t/p/original/6zMrrZvOMH6uGwEFoK0Uo8sZvxL.jpg</thumb>
+        </actor>
+        <actor>
+            <name>Shane Paul McGhie</name>
+            <role>Landon Gibson</role>
+            <order>2</order>
+            <thumb>https://image.tmdb.org/t/p/original/xrW5ioE8lihmmuu1ov1wWBpOWYp.jpg</thumb>
+        </actor>
+        <actor>
+            <name>Khadijha Red Thunder</name>
+            <role>Steph Jones</role>
+            <order>3</order>
+            <thumb>https://image.tmdb.org/t/p/original/b4jYLXnLUYOk9u9H9WX25UUjk4I.jpg</thumb>
+        </actor>
+        <actor>
+            <name>Dylan Arnold</name>
+            <role>Noah Porter</role>
+            <order>4</order>
+            <thumb>https://image.tmdb.org/t/p/original/pij9g793mb2ZGyyNdEI7TOoJ6i8.jpg</thumb>
+        </actor>
+        <actor>
+            <name>Samuel Larsen</name>
+            <role>Zed Evans</role>
+            <order>5</order>
+            <thumb>https://image.tmdb.org/t/p/original/a9AQOsvl0IUHe23sz7wYsgHFBn4.jpg</thumb>
+        </actor>
+        <actor>
+            <name>Inanna Sarkis</name>
+            <role>Molly Samuels</role>
+            <order>6</order>
+            <thumb>https://image.tmdb.org/t/p/original/up8etOETeYTwuGFr9yL0gYf5ZKW.jpg</thumb>
+        </actor>
+        <actor>
+            <name>Selma Blair</name>
+            <role>Carol Young</role>
+            <order>7</order>
+            <thumb>https://image.tmdb.org/t/p/original/5KfULwS7ZPZc6Ac1OP0ka2PhZZy.jpg</thumb>
+        </actor>
+        <actor>
+            <name>Pia Mia</name>
+            <role>Tristan</role>
+            <order>8</order>
+            <thumb>https://image.tmdb.org/t/p/original/4klv1dkVPxwWoUVcKa4NBOAEJvl.jpg</thumb>
+        </actor>
+        <actor>
+            <name>Swen Temmel</name>
+            <role>Jace</role>
+            <order>9</order>
+            <thumb>https://image.tmdb.org/t/p/original/z6zLmf3PBsTGMU3RBnguAqfHUn3.jpg</thumb>
+        </actor>
+        <actor>
+            <name>Meadow Williams</name>
+            <role>Professor Soto</role>
+            <order>10</order>
+            <thumb>https://image.tmdb.org/t/p/original/7CQHKHgjAEcKaeTOZ2XsBVoT6Uz.jpg</thumb>
+        </actor>
+        <actor>
+            <name>Peter Gallagher</name>
+            <role>Ken Scott</role>
+            <order>11</order>
+            <thumb>https://image.tmdb.org/t/p/original/bjL6DIXiL96SMxIgtsk63SxFBqn.jpg</thumb>
+        </actor>
+        <actor>
+            <name>Jennifer Beals</name>
+            <role>Karen Gibson</role>
+            <order>12</order>
+            <thumb>https://image.tmdb.org/t/p/original/gSgjPBfke1fz55WyO8AnFWtidOq.jpg</thumb>
+        </actor>
+        <actor>
+            <name>Michael Hull</name>
+            <role>T.A.</role>
+            <order>13</order>
+            <thumb></thumb>
+        </actor>
+        <actor>
+            <name>Sarah Jorge León</name>
+            <role>Astronomy Teacher</role>
+            <order>14</order>
+            <thumb>https://image.tmdb.org/t/p/original/xcvHT0fAgF6Noq54DOQiss1Pp4O.jpg</thumb>
+        </actor>
+        <actor>
+            <name>Chris Kontopidis</name>
+            <role>Waitress</role>
+            <order>15</order>
+            <thumb>https://image.tmdb.org/t/p/original/2rawqvyVal4I5rw0WocxNF66p5c.jpg</thumb>
+        </actor>
+        <actor>
+            <name>Rebecca Lee Robertson</name>
+            <role>Rebecca</role>
+            <order>16</order>
+            <thumb>https://image.tmdb.org/t/p/original/wYXM4Y39jAWfsViHNxMOhMxiUDX.jpg</thumb>
+        </actor>
+        <actor>
+            <name>Shannon Mayers</name>
+            <role>Secretary</role>
+            <order>17</order>
+            <thumb></thumb>
+        </actor>
+        <actor>
+            <name>Byron Wigfall</name>
+            <role>Barista</role>
+            <order>18</order>
+            <thumb>https://image.tmdb.org/t/p/original/uecgi328HuU1xTLcCUz5D4Xb0Hr.jpg</thumb>
+        </actor>
+        <actor>
+            <name>John Evanko</name>
+            <role>Security Guard</role>
+            <order>19</order>
+            <thumb></thumb>
+        </actor>
+        <actor>
+            <name>Mark Axelowitz</name>
+            <role>Economy Professor</role>
+            <order>20</order>
+            <thumb>https://image.tmdb.org/t/p/original/2PkwczFQCoybZyLBQTWvINtITy1.jpg</thumb>
+        </actor>
+        <actor>
+            <name>Paul Fox</name>
+            <role>Soccer Game Announcer</role>
+            <order>21</order>
+            <thumb>https://image.tmdb.org/t/p/original/vuTRbUGsLCO7r3I3K8GXJ64YVDf.jpg</thumb>
+        </actor>
+        <actor>
+            <name>Matthew Ezell</name>
+            <role>Professor Ezell</role>
+            <order>22</order>
+            <thumb></thumb>
+        </actor>
+                <dateadded>2019-10-13 12:32:40</dateadded>
+    </movie>
+    <!-- <movie>
+        <title>After : Chapitre 2</title>
+        <originaltitle>After Chapter 2</originaltitle>
+        <top250>0</top250>
+        <outline></outline>
+        <tagline>On n&apos;oublie jamais sa première fois</tagline>
+        <runtime>106</runtime>
+        <id>537916</id>
+        <uniqueid type="imdb">tt4126477</uniqueid>
+        <uniqueid type="tmdb" default="true">537916</uniqueid>
+    </movie> -->
+</movies>
